@@ -1,5 +1,9 @@
 # Repo para EIEC - DevOps - UNIR
-
+# Integrantes:
+# Jonatan Ruedas Mora
+# Ignacio Ferrer Sanz
+# Fernando Ares Chicote
+# Pedro Angel Moreno Romero
 Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
 
 ---
