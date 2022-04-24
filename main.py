@@ -32,11 +32,11 @@ if __name__ == "__main__":
         if (len(sys.argv) == 4 and sys.argv[3] in ['asc', 'desc']):
             ascending_order = sys.argv[3] == 'asc'
     else:
-        print("The file must be specified as the first argument")
-        print("The second argument indicates whether you want to remove duplicates (yes|no)")
+        print("You have to provide the file as first argument.")
+        print("The second argument indicates if you want to remove duplicates.")
         sys.exit(1)
 
-    print(f"Reading words from file {filename}")
+    print(f"The words of the file will be read {filename}")
     file_path = os.path.join(".", filename)
     if os.path.isfile(file_path):
         word_list = []
