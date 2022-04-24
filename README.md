@@ -1,4 +1,6 @@
 # Repo para EIEC - DevOps - UNIR
+# Práctica 1 de la actividad
+# Se realizarán pull requests en GitHub como manejo de repositorios remotos
 
 Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
 
